@@ -2,8 +2,24 @@
 Welcome To Code With Anushreya!
 Here, we're going to discover topics from Basics to advanced using JAVA as a programming language.
 
+Topics are:
+1. Installation of JAVA & Basic coding
+2. Looping
+3. Arrays
+4. Bit manipulation and complexity
+5. OOPS
+6. Binary search
+7. Map and Set
+8. Stacks and Queues
+9. Linked List
+10. Recursion.
+11. Backtracking
+12. Trees.
+
 
 
 Thankyou!
 
+
 Final Copy
+
